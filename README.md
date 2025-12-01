@@ -1,5 +1,8 @@
 ## SpamEmailClassifier
 
+### About
+> Machine learning spam classifier implemented from scratch in C. Uses Naive Bayes with probabilistic text analysis to detect spam emails with high accuracy. Lightweight, fast, and dependency-free.
+
 ### Features
 - Pure C Implementation - Zero dependencies, compiles anywhere <br/>
 - Complete Naive Bayes - Mathematical implementation with Laplace smoothing <br/>
